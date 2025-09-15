@@ -1,1 +1,2 @@
-# www
+# blog
+301 redirect
